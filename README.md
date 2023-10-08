@@ -1,10 +1,5 @@
 # COVID-19 Impact Analysis on the Top 10 Countries' Economy Using Python
-
-The data we are using contains the data on COVID-19 cases and their impact on GDP from December 31, 2019, to October 10, 2020.
-
-# Link to dataset:
-
-https://www.kaggle.com/datasets/shashwatwork/impact-of-covid19-pandemic-on-the-global-economy
+This analysis contains data on COVID-19 cases and their impact on GDP from December 31, 2019, to October 10, 2020.
 
 # Columns heading from the dataset
 
