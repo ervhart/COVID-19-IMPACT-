@@ -26,3 +26,17 @@ https://www.kaggle.com/datasets/shashwatwork/impact-of-covid19-pandemic-on-the-g
 - Countries
 - Total Deaths
 - Human Development
+
+  ![alt text](https://github.com/ervhart/COVID-19-IMPACT-/blob/main/Capture_C19.PNG)
+
+  ![alt text](https://github.com/ervhart/COVID-19-IMPACT-/blob/main/Capture_C191.PNG)
+
+  ![alt text](https://github.com/ervhart/COVID-19-IMPACT-/blob/main/Capture_C192.PNG)
+
+  ![alt text](https://github.com/ervhart/COVID-19-IMPACT-/blob/main/Capture_C193.PNG)
+
+  ![alt text](https://github.com/ervhart/COVID-19-IMPACT-/blob/main/Capture_C194.PNG)
+
+  ![alt text](https://github.com/ervhart/COVID-19-IMPACT-/blob/main/Capture_C195.PNG)
+
+  ![alt text](https://github.com/ervhart/COVID-19-IMPACT-/blob/main/Capture_C196.PNG)
